@@ -1,5 +1,8 @@
 # Zen Task New Tab
 
+![Release Status](https://github.com/gokulrajanpillai/ProductivityChromeExtension/actions/workflows/release.yml/badge.svg)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/gokulrajanpillai/ProductivityChromeExtension)
+
 A calm, productivity-focused New Tab page for Chrome.
 
 ## Installation
